@@ -1,0 +1,12 @@
+{
+  "name": "M Mahesh",
+  "party": "BJP",
+  "age": 71,
+  "vote": [
+    {
+      "user":"12368594dcvd1d2d5d2",
+      "voteAt":"2024-02-20T08:00:00.000Z"
+    }
+  ],
+  "voteCount": 2
+}
